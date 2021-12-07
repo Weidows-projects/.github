@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "生成logo",
   "scripts": {
-    "logo": "logo"
+    "gene-logo": "logo & svgexport profile/logo.svg profile/logo.png & rm profile/logo.svg"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,9 @@
     "url": "https://github.com/Weidows-projects/.github/issues"
   },
   "homepage": "https://github.com/Weidows-projects/.github#readme",
-  "devDependencies": {
-    "logo.svg": "1.0.1"
+  "dependencies": {
+    "logo.svg": "1.0.1",
+    "svgexport": "^0.4.2"
   },
   "logo": {
     "logo": "Weidows-pro-j",
