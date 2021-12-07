@@ -1,0 +1,52 @@
+{
+  "name": "logo",
+  "version": "1.0.0",
+  "description": "生成logo",
+  "scripts": {
+    "logo": "logo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weidows-projects/.github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weidows-projects/.github/issues"
+  },
+  "homepage": "https://github.com/Weidows-projects/.github#readme",
+  "devDependencies": {
+    "logo.svg": "1.0.1"
+  },
+  "logo": {
+    "logo": "Weidows-pro-j",
+    "font": "mk-zodnig-square.ttf",
+    "fontSize": 96,
+    "output": "./profile/logo.svg",
+    "divided": true,
+    "path": {
+      "fill": "#6af72e"
+    },
+    "path1": {
+      "fill": "#c6e03c"
+    },
+    "path2": {
+      "fill": "#fc428f"
+    },
+    "path3": {
+      "fill": "#cea2fd"
+    },
+    "path4": {
+      "fill": "#fb3f24"
+    },
+    "path5": {
+      "fill": "#3cc8f6"
+    },
+    "path6": {
+      "fill": "#67c5c4 "
+    },
+    "path7": {
+      "fill": "#67c5c4 "
+    }
+  }
+}
