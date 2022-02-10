@@ -3,7 +3,7 @@
  * @Author: Weidows
  * @Date: 2021-12-07 16:28:18
  * @LastEditors: Weidows
- * @LastEditTime: 2021-12-07 17:52:33
+ * @LastEditTime: 2022-02-10 18:23:04
  * @FilePath: \.github\profile\README.md
  * @Description:
  * @!: *********************************************************************
@@ -19,6 +19,6 @@
 
 <h1 align="center">
 
-  ![logo](https://github.com/Weidows-projects/.github/raw/master/profile/logo.png)
-  <img src="https://s2.loli.net/2021/12/07/4BCJWOhHAzPkGvT.png" alt="20211207161156" />
+  ![logo](https://cdn.jsdelivr.net/gh/Weidows-projects/.github/profile/logo.png)
+  ![](https://cdn.jsdelivr.net/gh/Weidows-projects/.github/profile/4BCJWOhHAzPkGvT.png)
 </h1>
