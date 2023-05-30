@@ -17,7 +17,7 @@
   "homepage": "https://github.com/Weidows-projects/.github#readme",
   "dependencies": {
     "logo.svg": "1.0.1",
-    "svgexport": "^0.4.2"
+    "svgexport": "github:Weidows/svgexport"
   },
   "logo": {
     "logo": "Weidows-pro-j",
